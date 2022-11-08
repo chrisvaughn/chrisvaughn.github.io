@@ -1,6 +1,6 @@
 {
     "version": "0.0.0.361",
-    "generated": "2022-11-07T02:14:32.082860",
+    "generated": "2022-11-08T17:10:27.454376",
     "rewards": [
         {
             "name": "presave-ShaniaTwain-25gems-label",
@@ -49,6 +49,14 @@
             "start": "2022-11-04 12:00:00",
             "end": "2022-12-04 12:00:00",
             "deeplink": "beatstar://?promo_id=fbc986d2-1c94-466b-bf43-7d147ee9d962"
+        },
+        {
+            "name": "promotion-ShaniaTwain-WakingUpDreaming",
+            "description": "Song: 1364",
+            "type": "song",
+            "start": "2022-11-08 12:00:00",
+            "end": "2023-02-08 12:00:00",
+            "deeplink": "beatstar://?promo_id=21f1af3f-5bc6-48e4-b559-6c35b6b6ea41"
         },
         {
             "name": "4countrycards-nov2022-1",
