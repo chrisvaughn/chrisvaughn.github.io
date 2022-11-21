@@ -1,6 +1,6 @@
 {
     "version": "0.0.0.361",
-    "generated": "2022-11-08T17:10:27.454376",
+    "generated": "2022-11-21T00:26:34.041088",
     "rewards": [
         {
             "name": "presave-ShaniaTwain-25gems-label",
@@ -19,12 +19,44 @@
             "deeplink": "beatstar://?promo_id=0a1a2640-659a-4099-b42f-9b1b23415a0e"
         },
         {
+            "name": "4rockcards-nov2022-2",
+            "description": "4x Rock Case cards-rock",
+            "type": "cards",
+            "start": "2022-11-11 12:00:00",
+            "end": "2022-12-11 12:00:00",
+            "deeplink": "beatstar://?promo_id=ea9a2190-02d7-4a10-99f6-b7d55e3dd66b"
+        },
+        {
+            "name": "UnlimitedPlay-nov2022-3",
+            "description": "unlimited play (30.0 mins)",
+            "type": "unlimited",
+            "start": "2022-11-18 12:00:00",
+            "end": "2022-12-18 12:00:00",
+            "deeplink": "beatstar://?promo_id=be1f2d94-d8e7-4de7-a302-39320b3d0c9a"
+        },
+        {
+            "name": "2rainbowcards-nov2022-1",
+            "description": "2x Rainbow Case cards-wildcard-genre",
+            "type": "cards",
+            "start": "2022-11-18 12:00:00",
+            "end": "2022-12-18 12:00:00",
+            "deeplink": "beatstar://?promo_id=0c07b64c-d231-46b7-ba99-fb27e6ad3a26"
+        },
+        {
             "name": "4rockcards-nov2022-1",
             "description": "4x Rock Case cards-rock",
             "type": "cards",
             "start": "2022-10-27 00:00:00",
             "end": "2022-12-11 12:00:00",
             "deeplink": "beatstar://?promo_id=3b344c6b-c2c2-4797-a945-e2efd53b90ba"
+        },
+        {
+            "name": "4popcards-nov2022-1",
+            "description": "4x Pop Case cards-classic_pop",
+            "type": "cards",
+            "start": "2022-11-11 12:00:00",
+            "end": "2022-12-11 12:00:00",
+            "deeplink": "beatstar://?promo_id=c5a399a6-f19c-49ee-aa9d-32a9dbc8895b"
         },
         {
             "name": "4rnbcards-nov2022-1",
@@ -75,46 +107,6 @@
             "deeplink": "beatstar://?promo_id=39d04b98-aed4-43ae-b154-5d7ad445ac32"
         },
         {
-            "name": "UnlimitedPlay-oct2022-4",
-            "description": "unlimited play (30.0 mins)",
-            "type": "unlimited",
-            "start": "2022-10-21 00:00:00",
-            "end": "2022-11-21 00:00:00",
-            "deeplink": "beatstar://?promo_id=6558cdd9-f4b0-4249-b226-dc20619dbe56"
-        },
-        {
-            "name": "2rainbowcards-oct2022-1",
-            "description": "2x Rainbow Case cards-wildcard-genre",
-            "type": "cards",
-            "start": "2022-10-21 00:00:00",
-            "end": "2022-11-21 00:00:00",
-            "deeplink": "beatstar://?promo_id=e2e52b0c-93a2-41ea-961f-f177b9fc5610"
-        },
-        {
-            "name": "2hardcards-oct2022-1",
-            "description": "2x Hard Case cards-hard",
-            "type": "cards",
-            "start": "2022-10-12 00:00:00",
-            "end": "2022-11-12 00:00:00",
-            "deeplink": "beatstar://?promo_id=b423c252-55bb-456d-b477-a6c756ff8110"
-        },
-        {
-            "name": "4rockcards-oct2022-1",
-            "description": "4x Rock Case cards-rock",
-            "type": "cards",
-            "start": "2022-10-12 00:00:00",
-            "end": "2022-11-12 00:00:00",
-            "deeplink": "beatstar://?promo_id=6056749d-5da0-4432-bded-0343220a9ade"
-        },
-        {
-            "name": "UnlimitedPlay-oct2022-3",
-            "description": "unlimited play (30.0 mins)",
-            "type": "unlimited",
-            "start": "2022-10-12 00:00:00",
-            "end": "2022-11-12 00:00:00",
-            "deeplink": "beatstar://?promo_id=de3da08e-642d-4b9a-900d-ee4fe1362f7c"
-        },
-        {
             "name": "promotion-greenGameJam-AURORA",
             "description": "Song: 1216",
             "type": "song",
@@ -137,14 +129,6 @@
             "start": "2022-08-25 11:12:37",
             "end": "2022-11-25 13:00:00",
             "deeplink": "beatstar://?promo_id=85dba06e-c0a9-4a84-a677-91851e3d35d0"
-        },
-        {
-            "name": "promotion-eminem-d2THELBC",
-            "description": "Song: 1300",
-            "type": "song",
-            "start": "2022-08-09 09:00:00",
-            "end": "2022-11-09 10:00:00",
-            "deeplink": "beatstar://?promo_id=4e70eb4b-8dc4-4656-b1ef-e9fc15f5ec3e"
         },
         {
             "name": "wishlistcards-5-tiktok",
